@@ -1,0 +1,97 @@
+.main {
+  width: 25%;
+  margin: auto;
+  margin-top: 30px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.App-header {
+  background: linear-gradient(to right, #a770ef, #cf8bf3, #fdb99b);
+  height: 80px;
+  padding: 20px;
+  align-items: center;
+  text-align: center;
+  color: white;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  line-height: 10px;
+}
+
+.input {
+  border-bottom: 1px solid rgb(230, 224, 224);
+  padding: 10px;
+  display: flex;
+}
+
+input {
+  padding: 10px;
+  width: 82%;
+  border: 0px;
+  font-size: 15px;
+  color: black;
+  outline: 0px;
+  align-items: center;
+}
+
+.input button {
+  font-weight: bolder;
+  font-size: 25px;
+  padding: 5px 10px;
+  border: 0px;
+  border-radius: 5px;
+  background-color: white;
+  color: rgb(158, 73, 210);
+  cursor: pointer;
+  outline: 0px;
+}
+
+.input button:hover {
+  background-color: rgb(246, 237, 231);
+}
+
+.input-data {
+  font-size: 16px;
+  margin-bottom: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.input-div {
+  padding: 20px;
+}
+
+.delete {
+  font-weight: bolder;
+  font-size: 15px;
+  padding: 5px 10px;
+  border: 0px;
+  background-color: white;
+  color: rgb(158, 73, 210);
+  cursor: pointer;
+  outline: 0px;
+  border-radius: 5px;
+}
+
+.delete:hover {
+  background-color: rgb(246, 237, 231);
+}
+
+.page-button {
+  margin-top: 30px;
+}
+
+.page-button button {
+  border-radius: 5px;
+  padding: 3px 12px;
+  margin-right: 10px;
+  font-size: 25px;
+  color: white;
+  background-color: #a770ef;
+  border: 0px;
+}
+
+.page-button button:hover {
+  background-color: #8b49e0;
+}

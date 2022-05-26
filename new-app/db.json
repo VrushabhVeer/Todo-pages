@@ -1,0 +1,99 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Buy Pen",
+      "isCompleted": true
+    },
+    {
+      "id": 2,
+      "text": "Buy NoteBook",
+      "isCompleted": false
+    },
+    {
+      "text": "Attend Srcum",
+      "isCompleted": false,
+      "id": 4
+    },
+    {
+      "text": "Buy Medicine",
+      "isCompleted": false,
+      "id": 8
+    },
+    {
+      "text": "Complete Coding Assignment",
+      "isCompleted": false,
+      "id": 10
+    },
+    {
+      "text": "Complete DSA Assignment",
+      "isCompleted": false,
+      "id": 11
+    },
+    {
+      "text": "Do 50 Pushups",
+      "isCompleted": false,
+      "id": 12
+    },
+    {
+      "text": "Drink Water",
+      "isCompleted": false,
+      "id": 13
+    },
+    {
+      "text": "Read Book",
+      "isCompleted": false,
+      "id": 14
+    },
+    {
+      "text": "Do Lunch",
+      "isCompleted": false,
+      "id": 15
+    },
+    {
+      "text": "Skillathon lec",
+      "isCompleted": false,
+      "id": 16
+    },
+    {
+      "text": "Call Amol",
+      "isCompleted": false,
+      "id": 18
+    },
+    {
+      "text": "Drink Coffee",
+      "isCompleted": false,
+      "id": 20
+    },
+    {
+      "text": "Watch Youtube",
+      "isCompleted": false,
+      "id": 21
+    },
+    {
+      "text": "Read Newspaper",
+      "isCompleted": false,
+      "id": 22
+    },
+    {
+      "text": "1 Hr Sleep",
+      "isCompleted": false,
+      "id": 23
+    },
+    {
+      "text": "Learn React",
+      "isCompleted": false,
+      "id": 24
+    },
+    {
+      "text": "Meditation 10 min",
+      "isCompleted": false,
+      "id": 25
+    },
+    {
+      "text": "Call Akash Manwar",
+      "isCompleted": false,
+      "id": 26
+    }
+  ]
+}
